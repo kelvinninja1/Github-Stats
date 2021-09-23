@@ -16,8 +16,8 @@
 
 
 <div>
-  <img height="150"  src="https://github-readme-streak-stats.herokuapp.com/?user=kelvinninja1&layout=compact" />
-  <img width=550 src="https://github-profile-trophy.vercel.app/?username=kelvinninja1&column=8&no-frame=true"/>
+  <img width=750 src="https://github-profile-trophy.vercel.app/?username=kelvinninja1&column=8&no-frame=true"/>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=kelvinninja1" />
    
 </div>
 
