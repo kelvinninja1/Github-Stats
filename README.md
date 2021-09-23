@@ -1,7 +1,7 @@
 
 ### Hi there 👋 I am Kelvin!
-
-
+### 🏆 Github Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=kelvinninja1)](https://github.com/kelvinninja1/github-profile-trophy)
 
 ## My GitHub Stats &#x1f4c8; ![Profile views](https://gpvc.arturio.dev/kelvinninja1)
 
@@ -14,4 +14,4 @@
 
 </a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kelvinninja1)](https://github.com/kelvinninja1/github-profile-trophy)
+
