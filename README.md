@@ -6,7 +6,7 @@
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=kelvinninja1&hide=html&count_private=true&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-  <img height="170" align="left"  src="https://github-readme-streak-stats.herokuapp.com/?user=kelvinninja1&layout=compact" />
+  <img height="170"  src="https://github-readme-streak-stats.herokuapp.com/?user=kelvinninja1&layout=compact" />
 </div>
 
 <br/>
@@ -14,8 +14,6 @@
 <!-- 
 |![GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvinninja1&hide=html&count_private=true&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)|![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kelvinninja1)| -->
 
-<br/><br/><br/><br/><br/><br/><br/><br/>
-### 🏆 Github Profile Tropy
 
 <div>
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=kelvinninja1&column=8&no-frame=true"/>
